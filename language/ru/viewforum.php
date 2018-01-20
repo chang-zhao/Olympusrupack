@@ -40,7 +40,7 @@ $lang = array_merge($lang, array(
 	'ACTIVE_TOPICS'			=> 'Активные темы',
 	'ANNOUNCEMENTS'			=> 'Объявления',
 
-	'FORUM_PERMISSIONS'		=> 'Права доступа',
+	'FORUM_PERMISSIONS'		=> 'Ваш текущий доступ:',
 
 	'ICON_ANNOUNCEMENT'		=> 'Объявление',
 	'ICON_STICKY'			=> 'Прилепленная',
